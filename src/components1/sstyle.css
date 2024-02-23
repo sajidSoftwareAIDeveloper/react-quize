@@ -1,0 +1,35 @@
+
+button{
+    height: 25px;
+    width: 150px;
+}
+button:hover{
+    background-color:red;
+
+}
+button:focus{
+    background-color: rgb(5, 255, 155);
+
+    border: radius 2px solid red;
+}
+
+table{
+    border: 3px solid lightcoral;
+}
+.button1{
+    background-color: aquamarine;
+}
+.button2{
+    background-color:burlywood;
+}
+.button3{
+    background-color: greenyellow;
+}
+.button4{
+    background-color:navajowhite;
+}
+
+table{
+    height: 150px;
+    width:150px;
+}
